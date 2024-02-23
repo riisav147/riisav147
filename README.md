@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
 <h3 align="center">As a full-stack developer with expertise in the MERN stack, I have a passion for creating robust and scalable web applications that deliver seamless user experiences. With a strong foundation in front-end development using React and Redux, coupled with extensive experience in back-end development with Node.js and MongoDB, I am well-equipped to take on complex projects and deliver high-quality results. If you're looking for a skilled full-stack developer with expertise in MERN stack, look no further. Let's connect and discuss how I can help bring your project to the next level.</h3>
